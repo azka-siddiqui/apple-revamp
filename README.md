@@ -1,8 +1,6 @@
 # apple-revamp
 
-A scroll-driven recreation of the iPhone 13 Pro product page, built to practice
-GSAP + ScrollTrigger animation. Pure HTML/CSS/JS — no build step, just open
-`index.html`.
+An animated experience modeled after Apple's website, built to practice design and GSAP + ScrollTrigger animation. 
 
 ## Sections
 
@@ -15,8 +13,8 @@ GSAP + ScrollTrigger animation. Pure HTML/CSS/JS — no build step, just open
 
 ## Built with
 
-- HTML5 + CSS3 (flexbox, `position`, `backdrop-filter`)
 - Vanilla JavaScript
+- Blender
 - [GSAP 3.8](https://greensock.com/gsap/) + ScrollTrigger (via CDN)
 - Poppins (Google Fonts)
 
@@ -38,7 +36,3 @@ python3 -m http.server 8000
 # then visit http://localhost:8000
 ```
 
-## Notes
-
-A learning project focused on scroll-linked motion and layout — recreated from a
-design I liked, rebuilt from scratch to understand how each animation is wired.
